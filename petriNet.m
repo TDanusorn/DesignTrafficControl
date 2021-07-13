@@ -1,3 +1,8 @@
+% ---------------------------------------------------------------
+% 
+% Author Thanacha Choopojcharoen
+% 
+% ---------------------------------------------------------------
 classdef petriNet < handle
     %PETRINET A Petri net representing a discrete event system
     %   A Petri net class representing the dynamics of a given discrete
